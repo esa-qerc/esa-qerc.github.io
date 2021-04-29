@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on ESA QERC</title>
+    <link>https://esa-qerc.github.io/post/</link>
+    <description>Recent content in News on ESA QERC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://esa-qerc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing... QERC-y chats!</title>
+      <link>https://esa-qerc.github.io/post/04_introqercychat/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://esa-qerc.github.io/post/04_introqercychat/</guid>
+      <description>2020 was a tough year.
+Our preoccupation with the pandemic, hand sanitation, and hoarding toilet paper meant that QERC was not able to run any events&amp;hellip;but we are back!
+We are excited to introduce to you all to QERC-y chats (pronounced quirky chats) - a series of community chats where quantitative ecologists come together and engage in discussions on topics ranging from mathematics and statistics to coding practices.
+We invite you to join us and contribute to these discussions and help guide future events!</description>
+    </item>
+    
+    <item>
+      <title>QERC-y chat - to tidy to too tidy?</title>
+      <link>https://esa-qerc.github.io/post/05_20210517qercychat/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://esa-qerc.github.io/post/05_20210517qercychat/</guid>
+      <description>Monday 17th of May 3:45 - 4:45pm on zoom.
+The first of our community chats is all about tidyverse! Tidyverse is a bundle of RStudio packages that are intended to be used in harmony. Do pipes, purrr, and ggplots spark joy in your workflow? Does using tidyverse have to be all-or-nothing? In this 45 minute QERC-y chat, we will chat about our experience with tidyverse and discuss where tidiness prevails and when it falls short for R users of varying skill levels.</description>
+    </item>
+    
+    <item>
+      <title>AIMOS 2019 Workshop on reproducibility research in R</title>
+      <link>https://esa-qerc.github.io/post/02_aimos/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://esa-qerc.github.io/post/02_aimos/</guid>
+      <description>QERC is hosting a workshop at the AIMOS conference (Interdisciplinary Meta-research and Open Science conference) in Melbourne on 7-8 November 2019 in Melbourne. Details about the conference and the workshop can be found on the conference website.</description>
+    </item>
+    
+    <item>
+      <title>ESA 2019 Workshop on reproducibility research in R</title>
+      <link>https://esa-qerc.github.io/post/03_esa2019/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://esa-qerc.github.io/post/03_esa2019/</guid>
+      <description>QERC is hosting a workshop at the ESA 2019 conference on 27 November 2019 in Launceston, Tasmania. Details about the conference and the workshop can be found on the conference website.</description>
+    </item>
+    
+    <item>
+      <title>ESA 2018 Quantitative Ecology Showcase</title>
+      <link>https://esa-qerc.github.io/post/01_showcase/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://esa-qerc.github.io/post/01_showcase/</guid>
+      <description>Whilst QERC was officially established in 2019, the organisers ran a two-day Quantitative Ecology Showcase as part of the 2018 ESA Annual meeting. You can read about it on the conference website</description>
+    </item>
+    
+  </channel>
+</rss>
