@@ -6,7 +6,16 @@
     <description>Recent content in News on ESA QERC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://esa-qerc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://esa-qerc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QERC-y chat - R package dev</title>
+      <link>https://esa-qerc.github.io/post/06_20210621qercychat/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://esa-qerc.github.io/post/06_20210621qercychat/</guid>
+      <description>Monday 19th of July 3:45 - 4:45pm on zoom. Our second community chat is all about R package development! When should your piece of code become a package? Where should that package end up (e.g., CRAN, GitHub)? When should we start writing documentation and unit tests? Do standard practices work with all applications (e.g., big data and models)? For the July QERC-y chat, we will discuss our experiences, hacks and potential trip hazards with packaging up our code.</description>
+    </item>
+    
     <item>
       <title>Introducing... QERC-y chats!</title>
       <link>https://esa-qerc.github.io/post/04_introqercychat/</link>
