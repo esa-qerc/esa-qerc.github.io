@@ -6,7 +6,18 @@
     <description>Recent content in ESA Quantitative Ecology Research Chapter on ESA QERC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://esa-qerc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://esa-qerc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QERC-y chats - recordings available</title>
+      <link>https://esa-qerc.github.io/post/07_recordings/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://esa-qerc.github.io/post/07_recordings/</guid>
+      <description>As our series of QERC-y chats gains momentum, we&amp;rsquo;re very excited to release digitally remastered recordings of our first two chats.
+Our first QERC-y chat was all about the R tidyverse. We discussed our favourite tidyverse packages, underappreciated packages and functions, and what we love (or don&amp;rsquo;t) about the tidyverse. Listen or watch if you want to hear more.
+Our second QERC-y chat took a deep dive into R package development, with special guest Dr Emi Tanaka (Monash University).</description>
+    </item>
+    
     <item>
       <title>QERC-y chat - R package dev</title>
       <link>https://esa-qerc.github.io/post/06_20210621qercychat/</link>

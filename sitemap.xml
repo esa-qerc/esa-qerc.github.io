@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://esa-qerc.github.io/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://esa-qerc.github.io/post/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://esa-qerc.github.io/post/07_recordings/</loc>
+    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
