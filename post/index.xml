@@ -6,7 +6,16 @@
     <description>Recent content in News on ESA QERC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://esa-qerc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://esa-qerc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QERC-y chat - Peer code review in ecology</title>
+      <link>https://esa-qerc.github.io/post/09_20211108qercychat/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://esa-qerc.github.io/post/09_20211108qercychat/</guid>
+      <description>Monday 8th of November 3:45 - 4:45pm on zoom. Despite the increasing complexity of ecological analyses and computation, as well as reliance on code to prepare, model, and visualise data, very little training or oversight of code takes place in ecology. Peer code review is a staple of other industries that rely on code, but conspicuously absent from academic research and publication. Code review has many purposes, including: pure pedagogy, error correction, and confirmation of reproducibility of reported results.</description>
+    </item>
+    
     <item>
       <title>QERC-y chat - Quantitative training in ecology</title>
       <link>https://esa-qerc.github.io/post/08_20210819qercychat/</link>
